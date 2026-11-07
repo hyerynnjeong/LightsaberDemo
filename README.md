@@ -3,7 +3,7 @@
 COMP 590: Virtual Reality and Game Development
 
 ## Demo Video
-[Video link here]
+https://github.com/hyerynnjeong/LightsaberDemo.git
 
 ## How to Run
 1. Open the project in Unity 6 (URP).
@@ -18,8 +18,6 @@ COMP 590: Virtual Reality and Game Development
   - Power-on / power-off sound effects and a looping hum that fades out as the blade collapses.
 
 ## Outside Resources
-- Sound effects: [site name + link for each sound]
-- [Any other resources used]
-
-## Notes
-- [Anything else the grader should know]
+- power-on sound: https://pixabay.com/sound-effects/film-special-effects-sword-slashing-2-382396/
+- power-off sound: https://pixabay.com/sound-effects/film-special-effects-sword-slashing-4-382399/
+- Hum sound: https://pixabay.com/sound-effects/film-special-effects-sci-fi-sound-effect-designed-circuits-hum-10-200831/
