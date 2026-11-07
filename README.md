@@ -3,7 +3,7 @@
 COMP 590: Virtual Reality and Game Development
 
 ## Demo Video
-https://github.com/hyerynnjeong/LightsaberDemo.git
+https://youtu.be/EPrcctk4VmI
 
 ## How to Run
 1. Open the project in Unity 6 (URP).
